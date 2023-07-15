@@ -51,7 +51,3 @@ Contributions to the script are welcome! If you find any issues or have suggesti
 ## Disclaimer
 
 This script is provided as-is without any warranty. Use it at your own risk. The author is not responsible for any damage or loss caused by the use of this script.
-
-## Contact
-
-For any questions or inquiries, please contact [your-email-address].
